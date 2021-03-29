@@ -1,0 +1,23 @@
+.a{
+    background-image: url('new.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: 50%;
+    text-align: center;
+    color: white;
+    font-family:   Altogser;
+    height: 1150px;
+    width: 100%;
+}
+.b{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+.c
+{
+    height: 50px;
+    width: 15%;
+    font-size: 20px;
+    color: black;
+}
